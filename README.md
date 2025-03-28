@@ -28,10 +28,23 @@ HTML, CSS, JavaScript
 Framework: Không sử dụng (có thể mở rộng với Vue, React, Angular)
 
 📜 Thông tin bổ sung Ứng dụng có thể chạy trên cả Android & iOS, tuy nhiên cần thử nghiệm trên thiết bị thật hoặc giả lập để kiểm tra đầy đủ tính năng.
+
+
+
+
+
+
 DEMO 
+Xem thời gian :
 ![image](https://github.com/user-attachments/assets/1fb8d881-1795-4ba8-b53c-202c68b75d9f)
+Share thời gian :
 ![image](https://github.com/user-attachments/assets/81cfb618-f1b8-43ba-af85-8c5d9f4d062c)
+Share ảnh chụp màn hình :
 ![image](https://github.com/user-attachments/assets/6d21547b-2bce-4a6d-9562-96ec5185657f)
+
+
+
+
 
 
 
